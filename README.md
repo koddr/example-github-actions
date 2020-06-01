@@ -1,8 +1,8 @@
 # GitHub Actions Example
 
-This is full project structure example of article **[Automate that! 👊 A practical guide to GitHub Actions: deploy a static 11ty website to remote server after commit](https://dev.to/koddr)**.
+This is full project structure example of article **[Automate that! 👊 A practical guide to GitHub Actions: deploy a static 11ty website to remote server after commit](https://dev.to/koddr/automate-that-a-practical-guide-to-github-actions-build-deploy-a-static-11ty-website-to-remote-virtual-server-after-push-d19)**.
 
-Published on [Dev.to](https://dev.to/koddr) @ 01 Jun 2020.
+Published on [Dev.to](https://dev.to/koddr/automate-that-a-practical-guide-to-github-actions-build-deploy-a-static-11ty-website-to-remote-virtual-server-after-push-d19) @ 01 Jun 2020.
 
 ## Requirements
 
