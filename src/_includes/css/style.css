@@ -1,0 +1,35 @@
+:root {
+  --font-face: sans-serif;
+  --font-size: 18px;
+  --black: #444444;
+  --gray: #fafafa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-face);
+  font-size: var(--font-size);
+  color: var(--black);
+  background-color: var(--gray);
+}
+
+h1 {
+  font-size: calc(var(--font-size) * 2.5);
+  margin-bottom: var(--font-size);
+}
+
+main {
+  display: grid;
+  grid-template-columns: max-content;
+  row-gap: 24px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+main > * > img {
+  width: 320px;
+}

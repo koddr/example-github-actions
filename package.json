@@ -1,0 +1,16 @@
+{
+  "name": "example-github-actions",
+  "version": "1.0.0",
+  "description": "A practical guide to GitHub Actions: deploy a static 11ty website to remote server after commit",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.3"
+  },
+  "author": "Vic Shóstak <vikkyshostak@gmail.com> (https://1wa.co)",
+  "license": "MIT"
+}

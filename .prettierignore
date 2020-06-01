@@ -1,0 +1,8 @@
+.gitignore
+.editorconfig
+.prettierignore
+
+node_modules/
+dist/
+
+**/*.svg
