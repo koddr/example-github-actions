@@ -6,8 +6,12 @@ Published on [Dev.to](https://dev.to/koddr/automate-that-a-practical-guide-to-gi
 
 ## Requirements
 
-- Node.js `10+`
+- Node.js `8+`
 - Eleventy `0.11+`
+
+## Helpful repositories
+
+- [🚚 Useful snippets for easily deploy](https://github.com/truewebartisans/snippets-deploy)
 
 ## Author
 
